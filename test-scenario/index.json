@@ -1,6 +1,6 @@
 {
-  "title": "Test Scenario Abhi - v1.21",
-  "description": "Test scenario by Abhi - v1.21",
+  "title": "Test Scenario Abhi - v1.3",
+  "description": "Test scenario by Abhi - v1.3",
   "difficulty": "Beginner",
   "time": "10 minutes",
   "details": {
@@ -13,6 +13,8 @@
       {
         "title": "Step 2",
         "text": "step2.md",
+        "courseData": "background.sh",
+        "code": "foreground.sh",
         "answer": "step2-answer.md",
         "verify": "step2-verify.sh"
       },
