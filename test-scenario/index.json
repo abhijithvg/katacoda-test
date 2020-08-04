@@ -1,6 +1,6 @@
 {
-  "title": "Test Scenario Abhi - v1.4",
-  "description": "Test scenario by Abhi - v1.4",
+  "title": "Test Scenario Abhi - v1.41",
+  "description": "Test scenario by Abhi - v1.41",
   "difficulty": "Beginner",
   "time": "10 minutes",
   "details": {
@@ -25,9 +25,9 @@
     ],
     "assets": {
         "host01": [
-            {"file": "demo.sh", "target": "/usr/local/bin/", "chmod": "+x"},
-        ],
-    }
+            {"file": "demo.sh", "target": "/usr/local/bin/", "chmod": "+x"}
+        ]
+    },
     "intro": {
       "text": "intro.md"
     },
